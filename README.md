@@ -1,6 +1,4 @@
-this is my first repository.
-<br>
-Lalit tandan
+
 # Lalit Tandan - HTML Practice
 
 This is my first GitHub repository.
