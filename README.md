@@ -11,3 +11,8 @@ This is my first GitHub repository.
 
 ## About
 Beginner HTML projects by Lalit Tandan
+## Forms
+- event-form.html - Event Registration Form (HTML only)
+- event-form-styled.html - Event Registration Form (with CSS)
+- quiz.html - Web Development Quiz (HTML only)
+- quiz-styled.html - Web Development Quiz (with CSS)
