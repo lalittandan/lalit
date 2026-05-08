@@ -16,3 +16,4 @@ Beginner HTML projects by Lalit Tandan
 - event-form-styled.html - Event Registration Form (with CSS)
 - quiz.html - Web Development Quiz (HTML only)
 - quiz-styled.html - Web Development Quiz (with CSS)
+  
